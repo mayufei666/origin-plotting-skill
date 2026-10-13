@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.opju
+*.opj
+*.png
+.venv/
+venv/
+.DS_Store
+Thumbs.db

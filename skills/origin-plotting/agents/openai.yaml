@@ -1,0 +1,6 @@
+interface:
+  display_name: "Origin 绘图（本机 COM）"
+  short_description: "在本机 Origin 中生成、排版并导出图表"
+  default_prompt: "Use $origin-plotting to plot my data in the already-open Origin and export a PNG."
+policy:
+  allow_implicit_invocation: true
