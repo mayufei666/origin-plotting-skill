@@ -34,7 +34,7 @@ skills/origin-plotting/
 ### Option A - copy into your Codex skills folder
 
 ```powershell
-git clone https://github.com/aascccccccccccccsscscsdsdsfd/origin-plotting-skill.git
+git clone https://github.com/mayufei666/origin-plotting-skill.git
 Copy-Item -Recurse -Force `
   .\origin-plotting-skill\skills\origin-plotting `
   "$env:USERPROFILE\.codex\skills\origin-plotting"
@@ -48,7 +48,7 @@ If your Codex build supports the skill-installer:
 
 ```
 python scripts/install-skill-from-github.py `
-  --repo aascccccccccccccsscscsdsdsfd/origin-plotting-skill `
+  --repo mayufei666/origin-plotting-skill `
   --path skills/origin-plotting
 ```
 
